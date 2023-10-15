@@ -1,0 +1,1 @@
+Esta es la frase que se va a almacernar en el fichero.*
